@@ -34,9 +34,15 @@ Welcome to my GitHub! I'm Aditi, a Computer Science undergrad from DIT Universit
 
 ##  Connect with Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/aditi-bajpai)  
-- ✉️ [Email](mailto:Aditi.b1263@gmail.com)  
-- 🧠 [LeetCode Profile](https://leetcode.com/u/itsAditi12/)  
+  <p><a href="mailto:your.email@example.com" target="_blank" style="margin: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="20" alt="Email" />
+  </a>  Email</p>
+  <p><a href="https://www.linkedin.com/in/yourusername" target="_blank" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn" />
+  </a>  LinkedIn</p>
+  <p><a href="https://leetcode.com/yourusername" target="_blank" style="margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="20" alt="LeetCode" />
+  </a>  LeetCode</p>
 
 <br/>
 
