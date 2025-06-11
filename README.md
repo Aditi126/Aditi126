@@ -46,4 +46,4 @@ Welcome to my GitHub! I'm Aditi, a Computer Science undergrad from DIT Universit
 
 <br/>
 
-> 🌱 Always open to collaborations, internships, and learning opportunities. Let’s build something great together!
+🌱 Always open to collaborations, internships, and learning opportunities. Let’s build something great together!
