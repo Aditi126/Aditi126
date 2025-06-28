@@ -27,7 +27,6 @@ Welcome to my GitHub! I'm Aditi, a Computer Science undergrad from DIT Universit
 
 ##  GitHub Stats
 
-![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditi126&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi126&layout=compact&theme=tokyonight)
 
 <br/>
