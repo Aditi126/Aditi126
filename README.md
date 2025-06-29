@@ -25,12 +25,6 @@ Welcome to my GitHub! I'm Aditi, a Computer Science undergrad from DIT Universit
 
 <br/>
 
-##  GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi126&layout=compact&theme=tokyonight)
-
-<br/>
-
 ##  Connect with Me
 
   <p><a href="mailto:your.email@example.com" target="_blank" style="margin: 10px;">
@@ -45,4 +39,4 @@ Welcome to my GitHub! I'm Aditi, a Computer Science undergrad from DIT Universit
 
 <br/>
 
-🌱 Always open to collaborations, internships, and learning opportunities. Let’s build something great together!
+### Always open to collaborations, internships, and learning opportunities. Let’s build something great together!
