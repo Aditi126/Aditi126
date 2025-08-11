@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm Aditi, a Computer Science undergraduate at DIT Univers
          width="30" height="30" alt="Email">
   </a>
 
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/itsAditi12" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          width="30" height="30" alt="LinkedIn">
   </a
