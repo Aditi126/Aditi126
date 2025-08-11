@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm Aditi, a Computer Science undergraduate at DIT Univers
 ### LeetCode
 
 <div>
-  <a href="https://leetcode.com/yourusername" target="_blank">
+  <a href="https://leetcode.com/itsAditi12" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
          width="30" height="30" alt="LeetCode">
   </a>
