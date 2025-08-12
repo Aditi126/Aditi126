@@ -34,12 +34,12 @@ Welcome to my GitHub! I'm Aditi, a Computer Science undergraduate at DIT Univers
 ### Connect with Me
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(50px, 1fr)); gap: 20px; max-width: 400px;"
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:aditi.b1263@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
          width="30" height="30" alt="Email">
   </a>
 
-  <a href="https://www.linkedin.com/in/itsAditi12" target="_blank">
+  <a href="https://www.linkedin.com/in/aditi-bajpai" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          width="30" height="30" alt="LinkedIn">
   </a
