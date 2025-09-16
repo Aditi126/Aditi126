@@ -2,7 +2,7 @@
 
 # I'm Aditi Bajpai
 
-### Front-End Developer • Cloud Enthusiast • Problem Solver (300+ LeetCode Questions)
+### Full Stack Developer • Cloud Enthusiast • Problem Solver (300+ LeetCode Questions)
 
 Welcome to my GitHub! I'm Aditi, a Computer Science undergraduate at DIT University, Dehradun. I’m passionate about crafting user-centric applications and solving real-world problems through clean, scalable code. I love building responsive UIs with React.js and continuously expanding my skills in backend development and cloud technologies.
 
